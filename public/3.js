@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{El06:function(n,e,t){"use strict";t.r(e);var a={name:"home"},i=t("KHd+"),s=Object(i.a)(a,(function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"container"},[this._v("\n    ini halaman home\n")])}),[],!1,null,null,null);e.default=s.exports}}]);
